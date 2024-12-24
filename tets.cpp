@@ -1,1 +1,5 @@
-#include <string
+#include <string>
+
+int main{
+ cout << "hello";
+}
